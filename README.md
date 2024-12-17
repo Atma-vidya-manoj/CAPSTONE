@@ -1,6 +1,7 @@
 # CAPSTONE Project
 # Smart City Waste Management Using Text Data and Images
 
+
 ## Overview
 This repository contains the code, models, and documentation for the Smart City Waste Management project.
 
