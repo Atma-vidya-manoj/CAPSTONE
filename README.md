@@ -1,5 +1,5 @@
 # CAPSTONE Project
-# Smart City Waste Management Using Text Data and Images
+# Smart City Waste Management Using Text Data and Images.
 
 
 ## Overview
