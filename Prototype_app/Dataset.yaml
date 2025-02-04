@@ -1,0 +1,8 @@
+names:
+- images
+- labels
+- train
+- val
+nc: 4
+train: C:\Users\ATMA\Downloads\1\Dataset\train/images
+val: C:\Users\ATMA\Downloads\1\Dataset\val/images
