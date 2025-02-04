@@ -10,7 +10,7 @@ You can access the [Google Colab notebook here](https://colab.research.google.co
 
 The notebook includes:
 - Dataset exploration
-- Model training (CNN, YOLOv5, ResNet50 and RandomForest)
+- Model training (CNN, YOLOv5, MobileNet50 and RandomForest)
 - Evaluation and results
 
 
